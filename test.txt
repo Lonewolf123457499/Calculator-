@@ -2,7 +2,9 @@ class  Calculator
 {
     public static void subtraction()
     {}
-    public static void add(){}
+    public static void add(){
+        return ans;
+    }
     public static void mult(){}
     public static void divid(){}
     public static void main(String[] args)
